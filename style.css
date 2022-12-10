@@ -1,0 +1,19 @@
+
+body
+{
+    font-family: 'Nerko One', cursive;
+    color: white;
+    background-image: url('https://img.freepik.com/free-vector/realistic-galaxy-background_52683-12122.jpg?w=740&t=st=1669544459~exp=1669545059~hmac=2f7c411f4dbd2c6f0ea1aa65c208c43883fc31e83cddb85885a9d85722c4c174');
+    background-repeat: no-repeat;
+    background-size: cover; 
+    
+}
+.header_div p{
+
+    letter-spacing: 2px;
+    font-size: 20px;
+    
+}
+.main_div button{
+    font-family:
+}
